@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pricing component renders correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Pricing />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <h2>
+          Pricing
+        </h2>,
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales condimentum blandit. Vestibulum rhoncus lacinia mattis. Phasellus sit amet interdum ante. Phasellus lobortis orci purus, in venenatis tortor mattis vel. Praesent bibendum turpis a leo bibendum, eu venenatis ligula ultricies. Duis ac augue ut quam sollicitudin iaculis. Curabitur faucibus ipsum ante, ac dignissim nulla pharetra a. Mauris ut vehicula ligula, faucibus tincidunt quam. Etiam semper justo nec magna viverra, eget maximus nisl ultricies. Nunc non lectus et nisl hendrerit iaculis sit amet et purus. Ut sed posuere quam, quis iaculis sapien. Cras nec tincidunt ipsum.
+        </p>,
+        <p>
+          Ut pulvinar sapien malesuada purus pretium, quis laoreet erat pharetra. Sed egestas id nulla et porttitor. Sed vitae faucibus massa. Nunc tincidunt blandit neque, vel blandit eros dapibus sit amet. Curabitur id erat tempus, vehicula metus vitae, sagittis nunc. Curabitur a dui mi. Pellentesque nibh nibh, tincidunt maximus iaculis nec, malesuada ut sapien. Vivamus suscipit auctor mollis. Aliquam consectetur sit amet lacus ac pellentesque. Duis convallis, tortor et posuere varius, sapien tellus pharetra libero, ac interdum odio turpis rutrum nibh. Quisque vitae purus eros. Quisque augue turpis, vehicula id auctor nec, cursus vehicula enim.
+        </p>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Pricing",
+        },
+        "ref": null,
+        "rendered": "Pricing",
+        "type": "h2",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales condimentum blandit. Vestibulum rhoncus lacinia mattis. Phasellus sit amet interdum ante. Phasellus lobortis orci purus, in venenatis tortor mattis vel. Praesent bibendum turpis a leo bibendum, eu venenatis ligula ultricies. Duis ac augue ut quam sollicitudin iaculis. Curabitur faucibus ipsum ante, ac dignissim nulla pharetra a. Mauris ut vehicula ligula, faucibus tincidunt quam. Etiam semper justo nec magna viverra, eget maximus nisl ultricies. Nunc non lectus et nisl hendrerit iaculis sit amet et purus. Ut sed posuere quam, quis iaculis sapien. Cras nec tincidunt ipsum.",
+        },
+        "ref": null,
+        "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales condimentum blandit. Vestibulum rhoncus lacinia mattis. Phasellus sit amet interdum ante. Phasellus lobortis orci purus, in venenatis tortor mattis vel. Praesent bibendum turpis a leo bibendum, eu venenatis ligula ultricies. Duis ac augue ut quam sollicitudin iaculis. Curabitur faucibus ipsum ante, ac dignissim nulla pharetra a. Mauris ut vehicula ligula, faucibus tincidunt quam. Etiam semper justo nec magna viverra, eget maximus nisl ultricies. Nunc non lectus et nisl hendrerit iaculis sit amet et purus. Ut sed posuere quam, quis iaculis sapien. Cras nec tincidunt ipsum.",
+        "type": "p",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Ut pulvinar sapien malesuada purus pretium, quis laoreet erat pharetra. Sed egestas id nulla et porttitor. Sed vitae faucibus massa. Nunc tincidunt blandit neque, vel blandit eros dapibus sit amet. Curabitur id erat tempus, vehicula metus vitae, sagittis nunc. Curabitur a dui mi. Pellentesque nibh nibh, tincidunt maximus iaculis nec, malesuada ut sapien. Vivamus suscipit auctor mollis. Aliquam consectetur sit amet lacus ac pellentesque. Duis convallis, tortor et posuere varius, sapien tellus pharetra libero, ac interdum odio turpis rutrum nibh. Quisque vitae purus eros. Quisque augue turpis, vehicula id auctor nec, cursus vehicula enim.",
+        },
+        "ref": null,
+        "rendered": "Ut pulvinar sapien malesuada purus pretium, quis laoreet erat pharetra. Sed egestas id nulla et porttitor. Sed vitae faucibus massa. Nunc tincidunt blandit neque, vel blandit eros dapibus sit amet. Curabitur id erat tempus, vehicula metus vitae, sagittis nunc. Curabitur a dui mi. Pellentesque nibh nibh, tincidunt maximus iaculis nec, malesuada ut sapien. Vivamus suscipit auctor mollis. Aliquam consectetur sit amet lacus ac pellentesque. Duis convallis, tortor et posuere varius, sapien tellus pharetra libero, ac interdum odio turpis rutrum nibh. Quisque vitae purus eros. Quisque augue turpis, vehicula id auctor nec, cursus vehicula enim.",
+        "type": "p",
+      },
+    ],
+    "type": Symbol(react.fragment),
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <h2>
+            Pricing
+          </h2>,
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales condimentum blandit. Vestibulum rhoncus lacinia mattis. Phasellus sit amet interdum ante. Phasellus lobortis orci purus, in venenatis tortor mattis vel. Praesent bibendum turpis a leo bibendum, eu venenatis ligula ultricies. Duis ac augue ut quam sollicitudin iaculis. Curabitur faucibus ipsum ante, ac dignissim nulla pharetra a. Mauris ut vehicula ligula, faucibus tincidunt quam. Etiam semper justo nec magna viverra, eget maximus nisl ultricies. Nunc non lectus et nisl hendrerit iaculis sit amet et purus. Ut sed posuere quam, quis iaculis sapien. Cras nec tincidunt ipsum.
+          </p>,
+          <p>
+            Ut pulvinar sapien malesuada purus pretium, quis laoreet erat pharetra. Sed egestas id nulla et porttitor. Sed vitae faucibus massa. Nunc tincidunt blandit neque, vel blandit eros dapibus sit amet. Curabitur id erat tempus, vehicula metus vitae, sagittis nunc. Curabitur a dui mi. Pellentesque nibh nibh, tincidunt maximus iaculis nec, malesuada ut sapien. Vivamus suscipit auctor mollis. Aliquam consectetur sit amet lacus ac pellentesque. Duis convallis, tortor et posuere varius, sapien tellus pharetra libero, ac interdum odio turpis rutrum nibh. Quisque vitae purus eros. Quisque augue turpis, vehicula id auctor nec, cursus vehicula enim.
+          </p>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Pricing",
+          },
+          "ref": null,
+          "rendered": "Pricing",
+          "type": "h2",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales condimentum blandit. Vestibulum rhoncus lacinia mattis. Phasellus sit amet interdum ante. Phasellus lobortis orci purus, in venenatis tortor mattis vel. Praesent bibendum turpis a leo bibendum, eu venenatis ligula ultricies. Duis ac augue ut quam sollicitudin iaculis. Curabitur faucibus ipsum ante, ac dignissim nulla pharetra a. Mauris ut vehicula ligula, faucibus tincidunt quam. Etiam semper justo nec magna viverra, eget maximus nisl ultricies. Nunc non lectus et nisl hendrerit iaculis sit amet et purus. Ut sed posuere quam, quis iaculis sapien. Cras nec tincidunt ipsum.",
+          },
+          "ref": null,
+          "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales condimentum blandit. Vestibulum rhoncus lacinia mattis. Phasellus sit amet interdum ante. Phasellus lobortis orci purus, in venenatis tortor mattis vel. Praesent bibendum turpis a leo bibendum, eu venenatis ligula ultricies. Duis ac augue ut quam sollicitudin iaculis. Curabitur faucibus ipsum ante, ac dignissim nulla pharetra a. Mauris ut vehicula ligula, faucibus tincidunt quam. Etiam semper justo nec magna viverra, eget maximus nisl ultricies. Nunc non lectus et nisl hendrerit iaculis sit amet et purus. Ut sed posuere quam, quis iaculis sapien. Cras nec tincidunt ipsum.",
+          "type": "p",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Ut pulvinar sapien malesuada purus pretium, quis laoreet erat pharetra. Sed egestas id nulla et porttitor. Sed vitae faucibus massa. Nunc tincidunt blandit neque, vel blandit eros dapibus sit amet. Curabitur id erat tempus, vehicula metus vitae, sagittis nunc. Curabitur a dui mi. Pellentesque nibh nibh, tincidunt maximus iaculis nec, malesuada ut sapien. Vivamus suscipit auctor mollis. Aliquam consectetur sit amet lacus ac pellentesque. Duis convallis, tortor et posuere varius, sapien tellus pharetra libero, ac interdum odio turpis rutrum nibh. Quisque vitae purus eros. Quisque augue turpis, vehicula id auctor nec, cursus vehicula enim.",
+          },
+          "ref": null,
+          "rendered": "Ut pulvinar sapien malesuada purus pretium, quis laoreet erat pharetra. Sed egestas id nulla et porttitor. Sed vitae faucibus massa. Nunc tincidunt blandit neque, vel blandit eros dapibus sit amet. Curabitur id erat tempus, vehicula metus vitae, sagittis nunc. Curabitur a dui mi. Pellentesque nibh nibh, tincidunt maximus iaculis nec, malesuada ut sapien. Vivamus suscipit auctor mollis. Aliquam consectetur sit amet lacus ac pellentesque. Duis convallis, tortor et posuere varius, sapien tellus pharetra libero, ac interdum odio turpis rutrum nibh. Quisque vitae purus eros. Quisque augue turpis, vehicula id auctor nec, cursus vehicula enim.",
+          "type": "p",
+        },
+      ],
+      "type": Symbol(react.fragment),
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;

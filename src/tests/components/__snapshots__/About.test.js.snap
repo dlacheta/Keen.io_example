@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About component renders correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <About />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <h2>
+          About
+        </h2>,
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis sem ac urna ullamcorper facilisis quis vel urna. Proin ac laoreet erat, sed vehicula enim. Maecenas finibus rhoncus urna. Nunc sed tempus lacus, non porta nisl. Etiam tristique quam felis, eget volutpat quam convallis volutpat. Morbi elementum tellus elit, ac condimentum justo vulputate eu. Nulla dapibus sem sed tellus pellentesque, ac sodales enim sagittis.
+        </p>,
+        <p>
+          Donec efficitur varius nisi vitae hendrerit. Quisque convallis nibh a libero scelerisque semper. Duis non posuere dui. Praesent dui urna, dictum nec placerat et, vulputate non massa. Nulla facilisi. Vestibulum mollis nisi libero, lacinia sollicitudin ligula auctor a. Morbi euismod ipsum sed odio finibus tincidunt. Donec in libero eu risus euismod tincidunt. Morbi a orci sit amet est varius ullamcorper. Vivamus vitae nisl libero. Cras commodo metus et risus eleifend, sed vehicula leo bibendum. Mauris pharetra sodales est, at ornare arcu efficitur vel. Duis quis sollicitudin purus, nec auctor quam. Donec sed lectus faucibus, volutpat nibh quis, suscipit purus. Cras accumsan euismod egestas.
+        </p>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "About",
+        },
+        "ref": null,
+        "rendered": "About",
+        "type": "h2",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis sem ac urna ullamcorper facilisis quis vel urna. Proin ac laoreet erat, sed vehicula enim. Maecenas finibus rhoncus urna. Nunc sed tempus lacus, non porta nisl. Etiam tristique quam felis, eget volutpat quam convallis volutpat. Morbi elementum tellus elit, ac condimentum justo vulputate eu. Nulla dapibus sem sed tellus pellentesque, ac sodales enim sagittis.",
+        },
+        "ref": null,
+        "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis sem ac urna ullamcorper facilisis quis vel urna. Proin ac laoreet erat, sed vehicula enim. Maecenas finibus rhoncus urna. Nunc sed tempus lacus, non porta nisl. Etiam tristique quam felis, eget volutpat quam convallis volutpat. Morbi elementum tellus elit, ac condimentum justo vulputate eu. Nulla dapibus sem sed tellus pellentesque, ac sodales enim sagittis.",
+        "type": "p",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Donec efficitur varius nisi vitae hendrerit. Quisque convallis nibh a libero scelerisque semper. Duis non posuere dui. Praesent dui urna, dictum nec placerat et, vulputate non massa. Nulla facilisi. Vestibulum mollis nisi libero, lacinia sollicitudin ligula auctor a. Morbi euismod ipsum sed odio finibus tincidunt. Donec in libero eu risus euismod tincidunt. Morbi a orci sit amet est varius ullamcorper. Vivamus vitae nisl libero. Cras commodo metus et risus eleifend, sed vehicula leo bibendum. Mauris pharetra sodales est, at ornare arcu efficitur vel. Duis quis sollicitudin purus, nec auctor quam. Donec sed lectus faucibus, volutpat nibh quis, suscipit purus. Cras accumsan euismod egestas.",
+        },
+        "ref": null,
+        "rendered": "Donec efficitur varius nisi vitae hendrerit. Quisque convallis nibh a libero scelerisque semper. Duis non posuere dui. Praesent dui urna, dictum nec placerat et, vulputate non massa. Nulla facilisi. Vestibulum mollis nisi libero, lacinia sollicitudin ligula auctor a. Morbi euismod ipsum sed odio finibus tincidunt. Donec in libero eu risus euismod tincidunt. Morbi a orci sit amet est varius ullamcorper. Vivamus vitae nisl libero. Cras commodo metus et risus eleifend, sed vehicula leo bibendum. Mauris pharetra sodales est, at ornare arcu efficitur vel. Duis quis sollicitudin purus, nec auctor quam. Donec sed lectus faucibus, volutpat nibh quis, suscipit purus. Cras accumsan euismod egestas.",
+        "type": "p",
+      },
+    ],
+    "type": Symbol(react.fragment),
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <h2>
+            About
+          </h2>,
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis sem ac urna ullamcorper facilisis quis vel urna. Proin ac laoreet erat, sed vehicula enim. Maecenas finibus rhoncus urna. Nunc sed tempus lacus, non porta nisl. Etiam tristique quam felis, eget volutpat quam convallis volutpat. Morbi elementum tellus elit, ac condimentum justo vulputate eu. Nulla dapibus sem sed tellus pellentesque, ac sodales enim sagittis.
+          </p>,
+          <p>
+            Donec efficitur varius nisi vitae hendrerit. Quisque convallis nibh a libero scelerisque semper. Duis non posuere dui. Praesent dui urna, dictum nec placerat et, vulputate non massa. Nulla facilisi. Vestibulum mollis nisi libero, lacinia sollicitudin ligula auctor a. Morbi euismod ipsum sed odio finibus tincidunt. Donec in libero eu risus euismod tincidunt. Morbi a orci sit amet est varius ullamcorper. Vivamus vitae nisl libero. Cras commodo metus et risus eleifend, sed vehicula leo bibendum. Mauris pharetra sodales est, at ornare arcu efficitur vel. Duis quis sollicitudin purus, nec auctor quam. Donec sed lectus faucibus, volutpat nibh quis, suscipit purus. Cras accumsan euismod egestas.
+          </p>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "About",
+          },
+          "ref": null,
+          "rendered": "About",
+          "type": "h2",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis sem ac urna ullamcorper facilisis quis vel urna. Proin ac laoreet erat, sed vehicula enim. Maecenas finibus rhoncus urna. Nunc sed tempus lacus, non porta nisl. Etiam tristique quam felis, eget volutpat quam convallis volutpat. Morbi elementum tellus elit, ac condimentum justo vulputate eu. Nulla dapibus sem sed tellus pellentesque, ac sodales enim sagittis.",
+          },
+          "ref": null,
+          "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis sem ac urna ullamcorper facilisis quis vel urna. Proin ac laoreet erat, sed vehicula enim. Maecenas finibus rhoncus urna. Nunc sed tempus lacus, non porta nisl. Etiam tristique quam felis, eget volutpat quam convallis volutpat. Morbi elementum tellus elit, ac condimentum justo vulputate eu. Nulla dapibus sem sed tellus pellentesque, ac sodales enim sagittis.",
+          "type": "p",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Donec efficitur varius nisi vitae hendrerit. Quisque convallis nibh a libero scelerisque semper. Duis non posuere dui. Praesent dui urna, dictum nec placerat et, vulputate non massa. Nulla facilisi. Vestibulum mollis nisi libero, lacinia sollicitudin ligula auctor a. Morbi euismod ipsum sed odio finibus tincidunt. Donec in libero eu risus euismod tincidunt. Morbi a orci sit amet est varius ullamcorper. Vivamus vitae nisl libero. Cras commodo metus et risus eleifend, sed vehicula leo bibendum. Mauris pharetra sodales est, at ornare arcu efficitur vel. Duis quis sollicitudin purus, nec auctor quam. Donec sed lectus faucibus, volutpat nibh quis, suscipit purus. Cras accumsan euismod egestas.",
+          },
+          "ref": null,
+          "rendered": "Donec efficitur varius nisi vitae hendrerit. Quisque convallis nibh a libero scelerisque semper. Duis non posuere dui. Praesent dui urna, dictum nec placerat et, vulputate non massa. Nulla facilisi. Vestibulum mollis nisi libero, lacinia sollicitudin ligula auctor a. Morbi euismod ipsum sed odio finibus tincidunt. Donec in libero eu risus euismod tincidunt. Morbi a orci sit amet est varius ullamcorper. Vivamus vitae nisl libero. Cras commodo metus et risus eleifend, sed vehicula leo bibendum. Mauris pharetra sodales est, at ornare arcu efficitur vel. Duis quis sollicitudin purus, nec auctor quam. Donec sed lectus faucibus, volutpat nibh quis, suscipit purus. Cras accumsan euismod egestas.",
+          "type": "p",
+        },
+      ],
+      "type": Symbol(react.fragment),
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;

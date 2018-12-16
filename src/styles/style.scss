@@ -1,0 +1,26 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  background: #fafafa;
+}
+
+.navbar {
+  background: #546e7a;
+  color: #eceff1;
+}
+
+.btn-group {
+  margin: 10px;
+
+  button {
+    margin: 0 5px;
+  }
+}
+
+h2 {
+  margin: 20px;
+}
+
+p {
+  padding: 0 20px;
+}

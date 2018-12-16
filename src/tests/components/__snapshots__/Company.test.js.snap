@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Company component renders correctly 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Company />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <h2>
+          Company
+        </h2>,
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices est facilisis sagittis eleifend. Integer ullamcorper vestibulum lectus a porta. Quisque id urna augue. Vestibulum id egestas orci, vitae vulputate mauris. Cras tincidunt lorem eros, nec imperdiet sem mollis et. Suspendisse a ornare eros. Aenean vel purus tempor, tempor quam et, maximus arcu. Donec ipsum lectus, gravida a lacinia nec, laoreet quis nisi. Maecenas a egestas erat, ut posuere eros.
+        </p>,
+        <p>
+          Morbi rutrum ullamcorper enim, a vulputate neque. In eros erat, pretium at eleifend vel, blandit ac diam. Sed luctus eu arcu faucibus malesuada. Donec purus ex, scelerisque eu nisl nec, efficitur consectetur magna. In vel pharetra dui, ut aliquam orci. Curabitur tortor lorem, aliquet ut ante eget, viverra tristique augue. Maecenas consectetur a nunc eget viverra. Vestibulum quis ante id justo interdum dignissim.
+        </p>,
+      ],
+    },
+    "ref": null,
+    "rendered": Array [
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Company",
+        },
+        "ref": null,
+        "rendered": "Company",
+        "type": "h2",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices est facilisis sagittis eleifend. Integer ullamcorper vestibulum lectus a porta. Quisque id urna augue. Vestibulum id egestas orci, vitae vulputate mauris. Cras tincidunt lorem eros, nec imperdiet sem mollis et. Suspendisse a ornare eros. Aenean vel purus tempor, tempor quam et, maximus arcu. Donec ipsum lectus, gravida a lacinia nec, laoreet quis nisi. Maecenas a egestas erat, ut posuere eros.",
+        },
+        "ref": null,
+        "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices est facilisis sagittis eleifend. Integer ullamcorper vestibulum lectus a porta. Quisque id urna augue. Vestibulum id egestas orci, vitae vulputate mauris. Cras tincidunt lorem eros, nec imperdiet sem mollis et. Suspendisse a ornare eros. Aenean vel purus tempor, tempor quam et, maximus arcu. Donec ipsum lectus, gravida a lacinia nec, laoreet quis nisi. Maecenas a egestas erat, ut posuere eros.",
+        "type": "p",
+      },
+      Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": "Morbi rutrum ullamcorper enim, a vulputate neque. In eros erat, pretium at eleifend vel, blandit ac diam. Sed luctus eu arcu faucibus malesuada. Donec purus ex, scelerisque eu nisl nec, efficitur consectetur magna. In vel pharetra dui, ut aliquam orci. Curabitur tortor lorem, aliquet ut ante eget, viverra tristique augue. Maecenas consectetur a nunc eget viverra. Vestibulum quis ante id justo interdum dignissim.",
+        },
+        "ref": null,
+        "rendered": "Morbi rutrum ullamcorper enim, a vulputate neque. In eros erat, pretium at eleifend vel, blandit ac diam. Sed luctus eu arcu faucibus malesuada. Donec purus ex, scelerisque eu nisl nec, efficitur consectetur magna. In vel pharetra dui, ut aliquam orci. Curabitur tortor lorem, aliquet ut ante eget, viverra tristique augue. Maecenas consectetur a nunc eget viverra. Vestibulum quis ante id justo interdum dignissim.",
+        "type": "p",
+      },
+    ],
+    "type": Symbol(react.fragment),
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <h2>
+            Company
+          </h2>,
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices est facilisis sagittis eleifend. Integer ullamcorper vestibulum lectus a porta. Quisque id urna augue. Vestibulum id egestas orci, vitae vulputate mauris. Cras tincidunt lorem eros, nec imperdiet sem mollis et. Suspendisse a ornare eros. Aenean vel purus tempor, tempor quam et, maximus arcu. Donec ipsum lectus, gravida a lacinia nec, laoreet quis nisi. Maecenas a egestas erat, ut posuere eros.
+          </p>,
+          <p>
+            Morbi rutrum ullamcorper enim, a vulputate neque. In eros erat, pretium at eleifend vel, blandit ac diam. Sed luctus eu arcu faucibus malesuada. Donec purus ex, scelerisque eu nisl nec, efficitur consectetur magna. In vel pharetra dui, ut aliquam orci. Curabitur tortor lorem, aliquet ut ante eget, viverra tristique augue. Maecenas consectetur a nunc eget viverra. Vestibulum quis ante id justo interdum dignissim.
+          </p>,
+        ],
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Company",
+          },
+          "ref": null,
+          "rendered": "Company",
+          "type": "h2",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices est facilisis sagittis eleifend. Integer ullamcorper vestibulum lectus a porta. Quisque id urna augue. Vestibulum id egestas orci, vitae vulputate mauris. Cras tincidunt lorem eros, nec imperdiet sem mollis et. Suspendisse a ornare eros. Aenean vel purus tempor, tempor quam et, maximus arcu. Donec ipsum lectus, gravida a lacinia nec, laoreet quis nisi. Maecenas a egestas erat, ut posuere eros.",
+          },
+          "ref": null,
+          "rendered": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices est facilisis sagittis eleifend. Integer ullamcorper vestibulum lectus a porta. Quisque id urna augue. Vestibulum id egestas orci, vitae vulputate mauris. Cras tincidunt lorem eros, nec imperdiet sem mollis et. Suspendisse a ornare eros. Aenean vel purus tempor, tempor quam et, maximus arcu. Donec ipsum lectus, gravida a lacinia nec, laoreet quis nisi. Maecenas a egestas erat, ut posuere eros.",
+          "type": "p",
+        },
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Morbi rutrum ullamcorper enim, a vulputate neque. In eros erat, pretium at eleifend vel, blandit ac diam. Sed luctus eu arcu faucibus malesuada. Donec purus ex, scelerisque eu nisl nec, efficitur consectetur magna. In vel pharetra dui, ut aliquam orci. Curabitur tortor lorem, aliquet ut ante eget, viverra tristique augue. Maecenas consectetur a nunc eget viverra. Vestibulum quis ante id justo interdum dignissim.",
+          },
+          "ref": null,
+          "rendered": "Morbi rutrum ullamcorper enim, a vulputate neque. In eros erat, pretium at eleifend vel, blandit ac diam. Sed luctus eu arcu faucibus malesuada. Donec purus ex, scelerisque eu nisl nec, efficitur consectetur magna. In vel pharetra dui, ut aliquam orci. Curabitur tortor lorem, aliquet ut ante eget, viverra tristique augue. Maecenas consectetur a nunc eget viverra. Vestibulum quis ante id justo interdum dignissim.",
+          "type": "p",
+        },
+      ],
+      "type": Symbol(react.fragment),
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;
