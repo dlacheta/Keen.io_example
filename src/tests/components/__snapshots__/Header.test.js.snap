@@ -27,6 +27,12 @@ ShallowWrapper {
           >
             Keen.io use example
           </div>
+          <Link
+            replace={false}
+            to="/dashboard"
+          >
+            Dashboard
+          </Link>
         </nav>,
         <div
           className="btn-group"
@@ -119,28 +125,51 @@ ShallowWrapper {
         "key": undefined,
         "nodeType": "host",
         "props": Object {
-          "children": <div
-            className="navbar-brand"
-            to="/"
-          >
-            Keen.io use example
-          </div>,
+          "children": Array [
+            <div
+              className="navbar-brand"
+              to="/"
+            >
+              Keen.io use example
+            </div>,
+            <Link
+              replace={false}
+              to="/dashboard"
+            >
+              Dashboard
+            </Link>,
+          ],
           "className": "navbar",
         },
         "ref": null,
-        "rendered": Object {
-          "instance": null,
-          "key": undefined,
-          "nodeType": "host",
-          "props": Object {
-            "children": "Keen.io use example",
-            "className": "navbar-brand",
-            "to": "/",
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Keen.io use example",
+              "className": "navbar-brand",
+              "to": "/",
+            },
+            "ref": null,
+            "rendered": "Keen.io use example",
+            "type": "div",
           },
-          "ref": null,
-          "rendered": "Keen.io use example",
-          "type": "div",
-        },
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "class",
+            "props": Object {
+              "children": "Dashboard",
+              "replace": false,
+              "to": "/dashboard",
+            },
+            "ref": null,
+            "rendered": "Dashboard",
+            "type": [Function],
+          },
+        ],
         "type": "nav",
       },
       Object {
@@ -464,6 +493,12 @@ ShallowWrapper {
             >
               Keen.io use example
             </div>
+            <Link
+              replace={false}
+              to="/dashboard"
+            >
+              Dashboard
+            </Link>
           </nav>,
           <div
             className="btn-group"
@@ -556,28 +591,51 @@ ShallowWrapper {
           "key": undefined,
           "nodeType": "host",
           "props": Object {
-            "children": <div
-              className="navbar-brand"
-              to="/"
-            >
-              Keen.io use example
-            </div>,
+            "children": Array [
+              <div
+                className="navbar-brand"
+                to="/"
+              >
+                Keen.io use example
+              </div>,
+              <Link
+                replace={false}
+                to="/dashboard"
+              >
+                Dashboard
+              </Link>,
+            ],
             "className": "navbar",
           },
           "ref": null,
-          "rendered": Object {
-            "instance": null,
-            "key": undefined,
-            "nodeType": "host",
-            "props": Object {
-              "children": "Keen.io use example",
-              "className": "navbar-brand",
-              "to": "/",
+          "rendered": Array [
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "host",
+              "props": Object {
+                "children": "Keen.io use example",
+                "className": "navbar-brand",
+                "to": "/",
+              },
+              "ref": null,
+              "rendered": "Keen.io use example",
+              "type": "div",
             },
-            "ref": null,
-            "rendered": "Keen.io use example",
-            "type": "div",
-          },
+            Object {
+              "instance": null,
+              "key": undefined,
+              "nodeType": "class",
+              "props": Object {
+                "children": "Dashboard",
+                "replace": false,
+                "to": "/dashboard",
+              },
+              "ref": null,
+              "rendered": "Dashboard",
+              "type": [Function],
+            },
+          ],
           "type": "nav",
         },
         Object {
