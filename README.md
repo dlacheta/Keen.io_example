@@ -1,4 +1,4 @@
-# React with styled components
+# Keen.io example
 
 Simple React app with various subpages done with React-router. Keen.io was used to stream pageviews of websites and all visits each website can be seen in Dashboard. Displaying bar chart was delivered using Plotly.js
 
