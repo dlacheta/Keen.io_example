@@ -10,6 +10,10 @@ import Pricing from './components/Pricing';
 import Company from './components/Company';
 import Documentation from './components/Documentation';
 import Contact from './components/Contact';
+import Dashboard from './components/Dashboard';
+import client from './config/keen-tracking';
+
+client.recordEvent('pageviews', {});
 
 const App = () => (
   <BrowserRouter>
@@ -22,6 +26,7 @@ const App = () => (
       <Route path="/company" component={Company} />
       <Route path="/documentation" component={Documentation} />
       <Route path="/contact" component={Contact} />
+      <Route path="/dashboard" component={Dashboard} />
     </React.Fragment>
   </BrowserRouter>
 );

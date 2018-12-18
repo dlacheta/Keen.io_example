@@ -7,6 +7,11 @@ body {
 .navbar {
   background: #546e7a;
   color: #eceff1;
+
+  a {
+    color: #fff;
+    text-decoration: underline;
+  }
 }
 
 .btn-group {

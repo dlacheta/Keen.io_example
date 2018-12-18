@@ -7,6 +7,7 @@ const Header = () => (
       <div className="navbar-brand" to="/">
         Keen.io use example
       </div>
+      <Link to="/dashboard">Dashboard</Link>
     </nav>
     <div className="btn-group" role="group">
       <Link to="/">
